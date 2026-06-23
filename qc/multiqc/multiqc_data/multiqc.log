@@ -1,0 +1,3 @@
+[2026-06-16 10:15:15,840] multiqc.core.version_check                         [WARNING]  MultiQC Version v1.35 now available!
+[2026-06-16 10:15:15,846] multiqc.core.file_search                           [INFO   ]  Search path: /home/temi/ma-seq-analysis/qc/raw_fastqc
+[2026-06-16 10:15:16,330] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 2 reports

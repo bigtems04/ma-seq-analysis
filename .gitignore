@@ -17,7 +17,7 @@
 
 # Output files from R CMD check
 /*.Rcheck/
-
+*.fastq
 # RStudio files
 .Rproj.user/
 
@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+data/raw/
+*.sra
+*.fastq
+*.fastq.gz
+fasterq.tmp.*
